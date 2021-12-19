@@ -3,8 +3,8 @@
 ### 🤍 #### Contact details:
 [![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=telegram)](https://t.me/kysapka)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-282c34?style=for-the-badge&logo=linkedin&logoColor=764ABC)](https://www.linkedin.com/in/artem-kruychkov-3256a821b/)
-it's the fastest way to reach out!
 
+it's the fastest way to reach out!
 
 My projects:
 1. :relaxed: [Flash-cards]()  
@@ -37,19 +37,20 @@ and ect...
 ![StoryBook](https://img.shields.io/badge/-StoryBook-282c34?style=for-the-badge&logo=StoryBook)
 ![Material-UI](https://img.shields.io/badge/-Material_UI-282c34?style=for-the-badge&logo=material_design)
 
+### GitHub stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kysapka&hide=stars,contribs&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kysapka&layout=compact)
+
 ## :trollface: You can check my CV on my little :frog: [website](https://kysapka.github.io/portfolio_v2/) :frog: :trollface:
 
 ### 💌 Mail me: kysapka@gmail.com
 
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ - 💪 I like to write code
+ - 🥅 I am constantly learning new things
+ - 🌏 I love to travel
+ - ⛺ I go hiking
+ - 😸 I love cats
 -->

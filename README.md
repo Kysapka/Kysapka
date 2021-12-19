@@ -3,8 +3,11 @@
 ### 🤍 #### Contact details:
 [![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=telegram)](https://t.me/kysapka)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-282c34?style=for-the-badge&logo=linkedin&logoColor=764ABC)](https://www.linkedin.com/in/artem-kruychkov-3256a821b/)
+[instagram]: https://www.instagram.com/kysapka/
+[vk]: https://vk.com/artemy85
+[gmail]: mailto:kysapka@gmail.com
 
-it's the fastest way to reach out!
+It's the fastest way to reach out!
 
 My projects:
 1. :relaxed: [Flash-cards]()  
@@ -41,13 +44,13 @@ and ect...
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kysapka&hide=stars,contribs&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kysapka&layout=compact)
-
+[codewars]: https://www.codewars.com/users/Kysapka
 ## :trollface: You can check my CV on my little :frog: [website](https://kysapka.github.io/portfolio_v2/) :frog: :trollface:
 
 ### 💌 Mail me: kysapka@gmail.com
 
 
-Here are some ideas to get you started:
+More about me:
  - 💪 I like to write code
  - 🥅 I am constantly learning new things
  - 🌏 I love to travel

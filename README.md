@@ -3,9 +3,6 @@
 ### 🤍 #### Contact details:
 [![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=telegram)](https://t.me/kysapka)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-282c34?style=for-the-badge&logo=linkedin&logoColor=764ABC)](https://www.linkedin.com/in/artem-kruychkov-3256a821b/)
-[instagram]: (https://www.instagram.com/kysapka/)
-[vk]: (https://vk.com/artemy85)
-[gmail]: (mailto:kysapka@gmail.com)
 
 It's the fastest way to reach out!
 

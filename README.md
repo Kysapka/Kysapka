@@ -41,7 +41,7 @@ and ect...
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kysapka&hide=stars,contribs&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kysapka&layout=compact)
-[codewars]: https://www.codewars.com/users/Kysapka
+
 ## :trollface: You can check my CV on my little :frog: [website](https://kysapka.github.io/portfolio_v2/) :frog: :trollface:
 
 ### 💌 Mail me: kysapka@gmail.com

@@ -10,9 +10,9 @@ My projects:
 
 1. :clipboard:  [Todolist](https://kysapka.github.io/Todolist/)   
 This project helps to organized better. Technologies that used here : **TypeScript**, **React**, **Redux**, **Redux-thunk**, **Hooks**, **Axios** , **Material UI**, **Formik**, **tests**. [Code](https://github.com/Kysapka/Todolist)
-2. :relaxed: [Flash-cards]()  
+2. :relaxed: [Flash-cards](https://kysapka.github.io/cards-nya-front-2-0/)  
 This project helps to study with flash cards. Joint project, a team of 3 people. Technologies that used here : **TypeScript**,**React**, **Redux**, **Redux-thunk**, **Hooks**, **Axios**. 
-[Code]() 
+[Code](https://github.com/Kysapka/cards-nya-front-2-0) 
 3.  :space_invader: Social network  
 Technologies that used here :**TypeScript**, **Redux**, **Hooks**, **REST API**. Unfinished project, I’m currently working on . [Code]() 
 4. :sheep:  [Redux counter]()  

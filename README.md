@@ -15,8 +15,8 @@ This project helps to study with flash cards. Joint project, a team of 3 people.
 [Code](https://github.com/Kysapka/cards-nya-front-2-0) 
 3.  :space_invader: Social network  
 Technologies that used here :**TypeScript**, **Redux**, **Hooks**, **REST API**. Unfinished project, I’m currently working on . [Code]() 
-4. :sheep:  [Redux counter]()  
-Small train project with  **TypeScript**,**React**, **Redux**, **Locale storage**,  **Hooks**, **CSS** . [Code]()  
+4. :sheep:  [Redux counter](https://kysapka.github.io/Counter-on-React/)  
+Small train project with  **TypeScript**,**React**, **Redux**, **Locale storage**,  **Hooks**, **CSS** . [Code](https://github.com/Kysapka/Counter-on-React)  
 
 and ect...
 

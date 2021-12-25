@@ -7,11 +7,12 @@
 It's the fastest way to reach out!
 
 My projects:
-1. :relaxed: [Flash-cards]()  
+
+1. :clipboard:  [Todolist](https://kysapka.github.io/Todolist/)   
+This project helps to organized better. Technologies that used here : **TypeScript**, **React**, **Redux**, **Redux-thunk**, **Hooks**, **Axios** , **Material UI**, **Formik**, **tests**. [Code](https://github.com/Kysapka/Todolist)
+2. :relaxed: [Flash-cards]()  
 This project helps to study with flash cards. Joint project, a team of 3 people. Technologies that used here : **TypeScript**,**React**, **Redux**, **Redux-thunk**, **Hooks**, **Axios**. 
 [Code]() 
-2. :clipboard:  [Todolist]()   
-This project helps to organized better. Technologies that used here : **TypeScript**, **React**, **Redux**, **Redux-thunk**, **Hooks**, **Axios** , **Material UI**, **Formik**, **tests**. [Code]()
 3.  :space_invader: Social network  
 Technologies that used here :**TypeScript**, **Redux**, **Hooks**, **REST API**. Unfinished project, I’m currently working on . [Code]() 
 4. :sheep:  [Redux counter]()  

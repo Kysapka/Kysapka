@@ -13,8 +13,8 @@ This project helps to organized better. Technologies that used here : **TypeScri
 2. :relaxed: [Flash-cards](https://kysapka.github.io/cards-nya-front-2-0/)  
 This project helps to study with flash cards. Joint project, a team of 3 people. Technologies that used here : **TypeScript**,**React**, **Redux**, **Redux-thunk**, **Hooks**, **Axios**. 
 [Code](https://github.com/Kysapka/cards-nya-front-2-0) 
-3.  :space_invader: Social network  
-Technologies that used here :**TypeScript**, **Redux**, **Hooks**, **REST API**. Unfinished project, I’m currently working on . [Code]() 
+3.  :space_invader: [Social network](https://github.com/Kysapka/social_network_ts/deployments/activity_log?environment=github-pages)
+Technologies that used here :**TypeScript**, **Redux**, **Hooks**, **REST API**. Unfinished project, I’m currently working on . [Code](https://github.com/Kysapka/social_network_ts) 
 4. :sheep:  [Redux counter](https://kysapka.github.io/Counter-on-React/)  
 Small train project with  **TypeScript**,**React**, **Redux**, **Locale storage**,  **Hooks**, **CSS** . [Code](https://github.com/Kysapka/Counter-on-React)  
 

@@ -21,7 +21,7 @@ Simple web chat based on **Google Firebase**,**React**, **React Context**. [Code
 Small train project with  **TypeScript**,**React**, **Redux**, **Locale storage**,  **Hooks**, **CSS** . [Code](https://github.com/Kysapka/Counter-on-React)  
 6. :sheep:  [Online Store](https://obscure-earth-45651.herokuapp.com/)  
 Small train project with  **Express**,**React**, **Sequilize**, **Postgresql**,  **Heroku**, **NodeJS** .
-frontend-part [Code](https://github.com/Kysapka/online-store)
+frontend-part [Code](https://github.com/Kysapka/online-store-client)
 backend-part  [Code](https://github.com/Kysapka/online-store)  
 
 and ect...

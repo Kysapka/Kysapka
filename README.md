@@ -19,6 +19,10 @@ Technologies that used here :**TypeScript**, **Redux**, **Hooks**, **REST API**.
 Simple web chat based on **Google Firebase**,**React**, **React Context**. [Code](https://github.com/Kysapka/Web_chat_firebase) 
 5. :sheep:  [Redux counter](https://kysapka.github.io/Counter-on-React/)  
 Small train project with  **TypeScript**,**React**, **Redux**, **Locale storage**,  **Hooks**, **CSS** . [Code](https://github.com/Kysapka/Counter-on-React)  
+6. :sheep:  [Online Store](https://obscure-earth-45651.herokuapp.com/)  
+Small train project with  **Express**,**React**, **Sequilize**, **Postgresql**,  **Heroku**, **NodeJS** .
+frontend-part [Code](https://github.com/Kysapka/online-store)
+backend-part  [Code](https://github.com/Kysapka/online-store)  
 
 and ect...
 
